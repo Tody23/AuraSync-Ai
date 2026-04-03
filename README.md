@@ -1,0 +1,2 @@
+# AuraSync-Ai
+CRM PLATFORM
