@@ -15,7 +15,7 @@
 
 <p align="center">Aura-Sync is a vertical SaaS platform for businesses that sell and support customers through <strong>Facebook Messenger</strong>. It brings AI replies, order capture, fulfillment workflows, CRM intelligence, approvals, logistics, campaigns, and billing into one real-time system designed around how Filipino social commerce actually operates.</p>
 
-<p align="center"><strong>🔗 Live Demo:</strong> <code>Coming soon</code> &nbsp;&nbsp; <strong>📖 Product Docs:</strong> <code>Available on request</code></p>
+<p align="center"><strong>📖 Product Docs:</strong> <code>Available on request</code></p>
 
 ---
 
